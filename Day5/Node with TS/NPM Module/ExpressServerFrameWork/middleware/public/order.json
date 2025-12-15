@@ -1,0 +1,24 @@
+{
+  "orderId": "ORD1001",
+  "customerName": "Ananya Sharma",
+  "contactNumber": "9876543210",
+  "deliveryAddress": "12, Lake View Street, Chennai, TN",
+  "items": [
+    {
+      "itemId": "FD101",
+      "itemName": "Paneer Biryani",
+      "quantity": 2,
+      "price": 180
+    },
+    {
+      "itemId": "FD205",
+      "itemName": "Gulab Jamun",
+      "quantity": 1,
+      "price": 60
+    }
+  ],
+  "orderTotal": 420,
+  "paymentMethod": "Cash on Delivery",
+  "orderStatus": "Placed",
+  "orderDate": "2025-05-29T13:45:00Z"
+}
